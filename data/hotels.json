@@ -1,0 +1,37 @@
+[
+    {
+      "id": "a8be3403-b0a0-4b77-ad0a-9084d1b8d386",
+      "slug": "sample-hotel",
+      "images": [],
+      "title": "Sample Hotel",
+      "description": "A cozy hotel in the heart of the city",
+      "guestCount": 4,
+      "bedroomCount": 2,
+      "bathroomCount": 1,
+      "amenities": ["WiFi", "Pool", "Gym"],
+      "host": {
+        "name": "John Doe",
+        "avatar": "https://example.com/avatar.jpg"
+      },
+      "address": {
+        "street": "123 Main St",
+        "city": "Sample City",
+        "state": "State",
+        "country": "Country",
+        "zip": "12345"
+      },
+      "location": {
+        "latitude": 40.7128,
+        "longitude": -74.0060
+      },
+      "rooms": [
+        {
+          "slug": "deluxe-room",
+          "image": "https://example.com/room.jpg",
+          "title": "Deluxe Room",
+          "bedroomCount": 1
+        }
+      ]
+    }
+  ]
+  
